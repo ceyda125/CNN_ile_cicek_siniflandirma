@@ -33,8 +33,8 @@ Model 15 epoch boyunca eğitilmiş ve aşağıdaki başarı oranlarına ulaşıl
 💻 Kurulum ve Çalıştırma
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
     Projeyi Klonlayın:
-         git clone https://github.com/kullanici_adiniz/repo_isminiz.git
-         cd repo_isminiz
+         git clone https://github.com/ceyda125/CNN_ile_cicek_siniflandirma
+         cd CNN_ile_cicek_siniflandirma
     Sanal Ortamı Oluşturun (Opsiyonel ama önerilir):
          python -m venv venv
          # Windows için:
